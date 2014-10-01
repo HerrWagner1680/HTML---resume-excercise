@@ -1,0 +1,145 @@
+body {
+	background-color: #FFFAF0;
+	color: #663300;
+	/* alternate font color could be dark green #333300 */
+
+	margin-bottom: 2.5cm;
+	margin-top: 1.75cm;
+}
+
+.contact {
+		margin-top: -0.5cm;
+}
+
+#name {
+	font-size: 2em;
+	text-align: center;
+	font-family: Arial;
+}
+
+#email {
+	margin-left: 3.7cm;
+	display: inline-block;
+	width: 7cm;
+	height: 0.5cm;
+	font-family: Arial;
+}
+
+#linkedin {
+	margin-left: 0cm;
+	display: inline-block;
+	width: 8.8cm;
+	height: 0.5 cm;
+	font-family: Arial;
+}
+
+#twitter {
+	margin-left: 0cm;
+	display: inline-block;
+	height: 0.5cm;
+	font-family: Arial;
+}
+
+a:link {
+	text-decoration: none;
+	color: #663300;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #663300;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+h4 a:hover {
+	text-decoration: underline;
+	color: black;	
+}
+
+section {
+	margin-left: 2cm;
+}
+
+
+
+#emailPIC {
+	position: fixed;
+	bottom: 1%;
+	right: 35%;
+	display: inline-block;
+	background-image: url('email.png');
+	background-position: 0px -100px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	opacity: .5;
+}
+
+#emailPIC:hover {
+	position: fixed;
+	bottom: 1%;
+	right: 35%;
+	display: inline-block;
+	background-image: url('email.png');
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+#LinkedInPIC {
+	position: fixed;
+	bottom: 1%;
+	right: 20%;
+	display: inline-block;
+	background-image: url('LinkedInICON.png');
+	background-position: 0px -100px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	opacity: .5;
+}
+
+#LinkedInPIC:hover {
+	position: fixed;
+	bottom: 1%;
+	right: 20%;
+	display: inline-block;
+	background-image: url('LinkedInICON.png');
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+#TwitterPIC {
+	position: fixed;
+	bottom: 1%;
+	right: 5%;
+	display: inline-block;
+	background-image: url('twitter.png');
+	background-position: 0px -100px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	opacity: .5;
+}
+
+#TwitterPIC:hover {
+	position: fixed;
+	bottom: 1%;
+	right: 5%;
+	display: inline-block;
+	background-image: url('twitter.png');
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+
+

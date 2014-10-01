@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n			<link rel=\"stylesheet\" href=\"resumetheme.css\" type=\"text/css\">\n			<title>R&eacute;sum&eacute; of Stig Kj&aelig;r</title>\n	</head>\n	<body>\n\n	<header>\n	<div id = \"name\">Stig Kj&aelig;r<br>\n	351 Irdansk Street<br>\n	Somewheresville, OH 45678<br>\n	212-555-5678</div>\n	<br>\n	<br>\n		<div class = \"contact\">\n		<div id = \"email\"> \n			<p>Email:  <a href=\"mailto:stigkj&aelig;r@comcastohio.net?subject=Loved%20Your%20R&eacute;sum&eacute;&body=Hello,%20Stig!\">stigkj&aelig;r@comcastohio.net</a></p>\n		</div>\n		<div id = \"linkedin\">\n			<p>LinkedIn:  <a href = \"https://www.linkedin.com/\" target=\"_blank\">https://www.linkedin.com/stigkj&aelig;r</a></p>\n		</div>\n		<div id = \"twitter\">\n			<p>Twitter:  <a href = \"https://www.twitter.com/\" target=\"_blank\">https://twitter.com/therealstigKj&aelig;r987</a></p>\n		</div>\n		</div>\n	</header>\n	<br>\n	<br>\n	<section>\n	<h3>PROFESSIONAL EXPERIENCE</h3>\n		<h4>ACE Auto Parts &#160;&#160;&#160;&#160;&#160;   September 2012 - April 2014</h4>\n			<ul>Sold air filters</ul>\n			<ul>Changed oil</ul>\n			<ul>Attenuated MX7000 Capacitors</ul>\n		<h4>International House of Pancakes &#160;&#160;&#160;  May 2009 - June 2012</h4>\n			<ul>Developed new line of banana pancakes</ul>\n			<ul>Created award-winning syrup from local trees</ul>\n			<ul>Increased profits 20% by reducing pancake size</ul>\n		<h4>Speedy's Courier Service  &#160;&#160;&#160;&#160;  March 2007 - May 2009</h4>\n			<ul>Hand delivered packages for local businesses</ul>\n			<ul>Acted as part-time accountant for this five person firm</ul>\n			<ul>Bought bicycle innertubes in bulk as a cost-saving measure</ul>\n	</section>\n	<br>\n	<section>\n	<h3>EDUCATION</h3>\n		<h4><a href = \"http://www.au.dk/en/\" target=\"blank\">&Aring;rhus Universitet</a> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &Aring;rhus, Denmark &#160;&#160;&#160;&#160;&#160;May 2006</h4> \n		<ul>Bachelors of Science in Rocketry and Jet Propulsion</ul>\n		<ul>Graduated Magna Cum Laude</ul>\n	</section>\n	<br>\n	<section>\n	<h3>INTERESTS</h3>\n		<ul>Bicycle racing</ul>\n		<ul>Double-entry bookkeeping</ul>\n		<ul>Taxidermy</ul>\n	</section>\n\n	</body>\n</html>\n",
+			"file": "resume.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 2133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resumetheme.css",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gorey/Documents/HTML - Coding exercises/resume.html",
+		"/Users/gorey/Documents/index.html",
+		"/Users/gorey/Documents/Rubytest1"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resume.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								867,
+								867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resumetheme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "resume.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

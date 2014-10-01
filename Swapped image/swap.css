@@ -1,0 +1,65 @@
+/*body {
+	background-color: green;
+}*/
+
+.email {
+	display: block;
+	background-image: url('email.png');
+	background-position: 0px -100px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	opacity: .5;
+}
+
+.email:hover {
+	display: block;
+	background-image: url('email.png');
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+/* opacity change seems to also work in Safari*/
+/* background-position only works in Google-Chrome */
+
+.Linked {
+	display: block;
+	background-image: url('LinkedInICON.png');
+	background-position: 0px -100px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	opacity: .5;
+}
+
+.Linked:hover {
+	display: block;
+	background-image: url('LinkedInICON.png');
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+.twitter {
+	display: block;
+	background-image: url('twitter.png');
+	background-position: 0px -100px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	opacity: .5;
+}
+
+.twitter:hover {
+	display: block;
+	background-image: url('twitter.png');
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+

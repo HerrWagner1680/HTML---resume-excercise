@@ -1,0 +1,72 @@
+body {
+	background-color: #FFFAF0;
+	color: #663300;
+	/* alternate font color could be dark green #333300 */
+
+	margin-bottom: 2.5cm;
+	margin-top: 1.75cm;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.contact {
+		margin-top: -0.5cm;
+		text-align: center;
+}
+
+#name {
+	font-size: 2em;
+	text-align: center;
+	font-family: Arial;
+}
+
+#email {
+	/*margin-left: 3.7cm;*/
+	/*margin-left: 20%;*/
+	display: inline-block;
+	width: 7cm;
+	height: 0.5cm;
+	font-family: Arial;
+}
+
+#linkedin {
+	margin-left: 0cm;
+	display: inline-block;
+	width: 8.8cm;
+	height: 0.5 cm;
+	font-family: Arial;
+}
+
+#twitter {
+	margin-left: 0cm;
+	display: inline-block;
+	height: 0.5cm;
+	width: 9.5cm;
+	font-family: Arial;
+}
+
+a:link {
+	text-decoration: none;
+	color: #663300;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #663300;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+h4 a:hover {
+	text-decoration: underline;
+	color: black;	
+}
+
+section {
+	margin-left: 2cm;
+}
